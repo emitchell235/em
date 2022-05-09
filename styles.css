@@ -1,0 +1,26 @@
+body {
+    background-color: #1c2e4a;
+}
+.top {
+    background-color: #12cc44;
+    
+}
+.middle {
+    background-color: #12cc44; 
+}
+#group {
+    width: 100%;
+    height: 600px;
+}
+.bws-hero {
+    text-align: center;
+}
+#map {
+    width: 100%;
+}
+#news {
+    text-align: center;
+}
+#info {
+    margin-top: 30px;
+}
